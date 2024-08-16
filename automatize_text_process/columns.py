@@ -1,0 +1,13 @@
+columns_csv = list(('Délka_Monitorování', 'Přítomnost epileptických záchvatů',
+                'Typy EEG aktivit',
+                'Lokalizace', 'Specifika',
+                'Aktivita během spánku vs. bdělosti', 'Lateralita',
+                'Typ_aktivity', 'Pacientova reakce', 'Terapie_Redukce',
+                'Okcipitální_Rytmus',
+                'Asymetrie_MU_Rytmu', 'Areální_Diferenciace_Vlevo/Vpravo',
+                'FCTP_Oblast_Zpomalení',
+                'Epileptiformní_Aktivita',
+                'Maxima_Epileptiformní_Aktivity', 'Stav_Spánku',
+                'NREM_Epileptiformní_Aktivita',
+                'REM_Epileptiformní_Aktivita', 'Charakter_Záchvatů',
+                'Semiologie', 'Iktální_EEG'))

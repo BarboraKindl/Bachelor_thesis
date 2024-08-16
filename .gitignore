@@ -1,0 +1,9 @@
+.env
+
+tables_csv/
+
+build/
+
+dist/
+
+text/

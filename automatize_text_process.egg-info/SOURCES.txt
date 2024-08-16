@@ -1,0 +1,10 @@
+README.md
+setup.py
+automatize_text_process/__init__.py
+automatize_text_process/columns.py
+automatize_text_process/main.py
+automatize_text_process.egg-info/PKG-INFO
+automatize_text_process.egg-info/SOURCES.txt
+automatize_text_process.egg-info/dependency_links.txt
+automatize_text_process.egg-info/requires.txt
+automatize_text_process.egg-info/top_level.txt

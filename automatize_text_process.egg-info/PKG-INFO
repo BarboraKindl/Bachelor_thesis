@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: automatize-text-process
+Version: 1.0.3
+Requires-Dist: columns
+Requires-Dist: main
